@@ -1,0 +1,86 @@
+{
+  "learner": {
+    "name": "Kim Phan",
+    "avatar": "/images/kim_phan.avif",
+    "tagline": "Keep growing your skills — you're doing great!",
+    "simsStarted": 5,
+    "simsCompleted": 3,
+    "avgScore": 82,
+    "streak": 4,
+    "careerActivationRate": 56,
+    "simulations": [
+      {
+        "id": 1,
+        "title": "Data Analyst Simulation",
+        "company": "Analytics Co.",
+        "logo": "/company1.png",
+        "role": "Junior Data Analyst",
+        "difficulty": "Intermediate",
+        "lastActivity": "2025-11-20",
+        "progress": 85,
+        "skills": ["Data Analysis", "Problem Solving"],
+        "status": "Completed"
+      },
+      {
+        "id": 2,
+        "title": "Marketing Campaign Simulation",
+        "company": "F&B Retail",
+        "logo": "/company2.png",
+        "role": "Campaign Marketing Executive",
+        "difficulty": "Beginner",
+        "lastActivity": "2025-11-22",
+        "progress": 40,
+        "skills": ["Communication", "Domain Knowledge"],
+        "status": "In Progress"
+      },
+      {
+        "id": 3,
+        "title": "Product Manager Simulation",
+        "company": "Shopee",
+        "logo": "/company3.png",
+        "role": "Assistant PM",
+        "difficulty": "Advanced",
+        "lastActivity": "2025-11-10",
+        "progress": 0,
+        "skills": ["Stakeholder Management", "Problem Solving"],
+        "status": "Not Started"
+      }
+    ],
+    "skills": [
+      { "name": "Data Analysis", "value": 80 },
+      { "name": "Communication", "value": 65 },
+      { "name": "Problem Solving", "value": 90 },
+      { "name": "Stakeholder Management", "value": 55 },
+      { "name": "Domain Knowledge", "value": 70 }
+    ],
+    "recommendations": [
+      {
+        "id": 101,
+        "title": "Communication Mastery Simulation",
+        "company": "EduPro",
+        "difficulty": "Beginner",
+        "estimate": "30 mins",
+        "reason": "Improves your Communication and Stakeholder skills",
+        "skills": ["Communication"]
+      },
+      {
+        "id": 102,
+        "title": "Advanced Data Insights Simulation",
+        "company": "DataCorp",
+        "difficulty": "Advanced",
+        "estimate": "60 mins",
+        "reason": "Boosts your Data Analysis and Problem Solving",
+        "skills": ["Data Analysis"]
+      },
+      {
+        "id": 103,
+        "title": "Stakeholder Strategy Simulation",
+        "company": "BizWorks",
+        "difficulty": "Intermediate",
+        "estimate": "45 mins",
+        "reason": "Strengthens Stakeholder & Communication skills",
+        "skills": ["Stakeholder Management"]
+      }
+    ]
+  }
+}
