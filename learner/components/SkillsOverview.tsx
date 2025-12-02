@@ -17,7 +17,7 @@ type Props = {
 export default function SkillsOverview({ learner }: Props) {
   const { value, setValue } = useSkillOverview();
 
-  const handleClick = (data: Skill) => {
+  const handleClick = (data: any) => {
     setValue(data.name);
   };
 
